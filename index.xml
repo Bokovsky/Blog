@@ -10,7 +10,62 @@
 <atom:link href="https://blog.macondo.cc/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 23 Oct 2024 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Dec 2024 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>富锌底漆不挥发物中金属锌含量检测方法整理</title>
+  <dc:creator>Lam </dc:creator>
+  <link>https://blog.macondo.cc/posts/zn.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="富锌底漆不挥发物中金属锌含量检测方法整理" class="level1">
+<h1>富锌底漆不挥发物中金属锌含量检测方法整理</h1>
+<blockquote class="blockquote">
+<p>本文汇总整理自《富锌底漆》HG/T 3668-2020附录B和《锌粉》GB/T 6890-2012附录B。</p>
+</blockquote>
+<section id="试验操作" class="level2">
+<h2 class="anchored" data-anchor-id="试验操作">试验操作</h2>
+<p>本试验主要由以下两部分构成。</p>
+<section id="混合物中溶剂不溶物含量" class="level3">
+<h3 class="anchored" data-anchor-id="混合物中溶剂不溶物含量">混合物中溶剂不溶物含量</h3>
+<ol type="1">
+<li>称取干燥、洁净的空试管的质量m<sub>0</sub>，精确至1mg。</li>
+<li>将按比例混合均匀后的试样（<strong>不加稀释剂</strong>）置于试管内，试样量到试管的1/4处，称取空 试管加试样的质量m<sub>1</sub>，精确至1mg。</li>
+<li>加入涂料供应商提供的配套稀释剂或其他合适的稀释剂至试管的1/2处，用玻璃棒或不锈钢棒充分搅拌，棒上的附着物用稀释剂冲回试管内，加稀释剂至试管的3/4处。</li>
+<li>盖上试管塞后，放入离心机内，在转速3000r/min～15000r/min下分离10min~15min。如上层液体较浑浊，可提高转速及增加分离时间。</li>
+<li>将试管上层溶液倒出，重复步骤3、4。重复洗涤操作至少3次。</li>
+<li>将试管塞打开，试管置于105℃±2℃的烘箱内干燥3h。取出，放入干燥器内，冷却 30min。称取空试管加溶剂不溶物的质量m<sub>2</sub>，精确至1mg。</li>
+<li>计算混合物中溶剂不溶物含量（%）。</li>
+</ol>
+</section>
+<section id="金属锌的质量分数" class="level3">
+<h3 class="anchored" data-anchor-id="金属锌的质量分数">金属锌的质量分数</h3>
+<ol type="1">
+<li>制备二氧化碳：
+<ul>
+<li>有二氧化碳：充入干燥的750mL锥形瓶中并盖紧瓶塞。</li>
+<li>无二氧化碳：在一个干燥的750mL锥形瓶中加入35mL的饱和碳酸氢钠溶液，滴加2滴甲基橙溶液（1g/L），加入10mL硫酸（1+19），在摇动下将瓶内空气赶尽，再继续滴加硫酸（1+19）直到溶液由黄色变为红色，立即塞好胶塞。</li>
+</ul></li>
+<li>称取0.40g试样，精确至0.0001g（差减法称量），随同试料做空白试验。</li>
+<li>迅速打开瓶塞将试料倒入锥形瓶中，立即塞好胶塞，摇动，使试料散开（避免生成聚焦物）。</li>
+<li>向锥形瓶中加入10mL.硫酸铜溶液（200g/L），剧烈摇动1min，然后加入50mL硫酸铁溶液（330g/L）冲洗锥形瓶颈部和瓶内壁，把附着在上面的金属粒子冲下去，塞紧胶塞，放置在搅拌器上搅拌或用手摇动直至完全溶解（约15min~30min）。</li>
+<li>试料完全溶解后，加入20mL磷酸（ρ=1.69g/mL）、200mL硫酸（1+19）混匀，立即用高锰酸钾标准滴定溶液（<strong>平行标定3份，结果保留4位有效数字</strong>）滴定至淡红色为终点。</li>
+<li>计算金属锌的质量分数（%），结果保留至小数点后2位。</li>
+</ol>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <category>工作笔记</category>
+  <guid>https://blog.macondo.cc/posts/zn.html</guid>
+  <pubDate>Sun, 15 Dec 2024 16:00:00 GMT</pubDate>
+</item>
 <item>
   <title>ISO 4942-2016 部分翻译</title>
   <dc:creator>Lam </dc:creator>
