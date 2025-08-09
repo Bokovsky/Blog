@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Macondo</title>
+<link>https://blog.macondo.cc/</link>
+<atom:link href="https://blog.macondo.cc/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 15 Dec 2024 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>富锌底漆不挥发物中金属锌含量检测方法整理</title>
+  <dc:creator>Lam </dc:creator>
+  <link>https://blog.macondo.cc/posts/zn/zn.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="富锌底漆不挥发物中金属锌含量检测方法整理" class="level1">
+<h1>富锌底漆不挥发物中金属锌含量检测方法整理</h1>
+<blockquote class="blockquote">
+<p>本文汇总整理自《富锌底漆》HG/T 3668-2020附录B、《锌粉》GB/T 6890-2012附录B和《色漆、清漆和塑料 不挥发物含量的测定》GB/T 1725-2007。</p>
+</blockquote>
+<section id="试验流程" class="level2">
+<h2 class="anchored" data-anchor-id="试验流程">试验流程</h2>
+<p>本试验简要流程如下：</p>
+<p><img src="https://blog.macondo.cc/posts/zn/p1.svg" class="img-fluid"></p>
+<section id="不挥发物含量-wd" class="level3">
+<h3 class="anchored" data-anchor-id="不挥发物含量-wd">不挥发物含量 w<sub>D</sub></h3>
+<ul>
+<li><p>一般样品：按产品配比混匀各组分（稀释剂除外），立即称取（2.5±0.2）g，（105±2）℃下烘烤3h。详细试验步骤参见<strong>GB/T 1725-2007或ISO 3251:2003</strong>，此处不再赘述。</p></li>
+<li><p>含活性稀释剂的样品：按产品配比混匀各组分及稀释剂，稀释比例取产品配比<strong>最大值</strong>，称取（3±0.1）g，在[温度（23±2）℃、相对湿度（50±5）%]条件下放置24h，（105±2）℃下烘1h。详细试验步骤参见<strong>GB/T 34682-2017第7.1节</strong>，此处不再赘述。</p></li>
+</ul>
+<blockquote class="blockquote">
+<p>注意：以上质量<strong>精确至1mg</strong>。</p>
+</blockquote>
+<ul>
+<li>计算公式（%）：</li>
+</ul>
+<p><img src="https://blog.macondo.cc/posts/zn/p2.svg" class="img-fluid"></p>
+</section>
+<section id="混合物中溶剂不溶物含量-wb" class="level3">
+<h3 class="anchored" data-anchor-id="混合物中溶剂不溶物含量-wb">混合物中溶剂不溶物含量 w<sub>B</sub></h3>
+<ol type="1">
+<li><p>称取干燥、洁净的空试管的质量m<sub>0</sub>，精确至1mg。</p></li>
+<li><p>将按比例混合均匀后的试样（<strong>不加稀释剂</strong>）置于试管内，试样量到试管的1/4处，称取空 试管加试样的质量m<sub>1</sub>，精确至1mg。</p></li>
+<li><p>加入涂料供应商提供的配套稀释剂或其他合适的稀释剂至试管的1/2处，用玻璃棒或不锈钢棒充分搅拌，棒上的附着物用稀释剂冲回试管内，加稀释剂至试管的3/4处。</p></li>
+<li><p>盖上试管塞后，放入离心机内，在转速3000r/min～15000r/min下分离10min~15min。如上层液体较浑浊，可提高转速及增加分离时间。</p></li>
+<li><p>将试管上层溶液倒出，重复步骤3、4，重复洗涤操作至少3次。</p></li>
+<li><p>将试管塞打开，试管置于（105±2）℃的烘箱内干燥3h。取出，放入干燥器内，冷却30min。称取空试管加溶剂不溶物的质量m<sub>2</sub>，精确至1mg。</p></li>
+<li><p>计算公式（%）：</p></li>
+</ol>
+<p><img src="https://blog.macondo.cc/posts/zn/p3.svg" class="img-fluid"></p>
+</section>
+<section id="金属锌的质量分数-wc" class="level3">
+<h3 class="anchored" data-anchor-id="金属锌的质量分数-wc">金属锌的质量分数 w<sub>C</sub></h3>
+<ol type="1">
+<li><p>制备二氧化碳：</p>
+<ul>
+<li>有二氧化碳：充入干燥的750mL锥形瓶中并盖紧瓶塞。</li>
+<li>无二氧化碳：在一个干燥的750mL锥形瓶中加入35mL的饱和碳酸氢钠溶液，滴加2滴甲基橙溶液（1g/L），加入10mL硫酸（1+19），在摇动下将瓶内空气赶尽，再继续滴加硫酸（1+19）直到溶液由黄色变为红色，立即塞好胶塞。</li>
+</ul></li>
+<li><p>称取0.40g试样，精确至0.0001g（差减法称量），随同试料做空白试验。</p></li>
+<li><p>迅速打开瓶塞将试料倒入锥形瓶中，立即塞好胶塞，摇动，使试料散开（避免生成聚焦物）。</p></li>
+<li><p>向锥形瓶中加入10mL.硫酸铜溶液（200g/L），剧烈摇动1min，然后加入50mL硫酸铁溶液（330g/L）冲洗锥形瓶颈部和瓶内壁，把附着在上面的金属粒子冲下去，塞紧胶塞，放置在搅拌器上搅拌或用手摇动直至完全溶解（约15min~30min）。</p></li>
+<li><p>试料完全溶解后，加入20mL磷酸（ρ=1.69g/mL）、200mL硫酸（1+19）混匀，立即用高锰酸钾标准滴定溶液（<strong>平行标定3份，结果保留4位有效数字</strong>）滴定至淡红色为终点。</p></li>
+<li><p>计算公式（%）：</p></li>
+</ol>
+<p><img src="https://blog.macondo.cc/posts/zn/p4.svg" class="img-fluid"></p>
+</section>
+</section>
+<section id="结果处理" class="level2">
+<h2 class="anchored" data-anchor-id="结果处理">结果处理（%）</h2>
+<p><img src="https://blog.macondo.cc/posts/zn/p5.svg" class="img-fluid"></p>
+<blockquote class="blockquote">
+<p>注：如样品为「粉末+液体」型，可参照w<sub>C</sub>的测定直接测出粉末中的金属锌含量w<sub>F</sub>，根据产品配比及w<sub>B</sub>计算出w<sub>E</sub>，最终确定w<sub>A</sub>：</p>
+<p><img src="https://blog.macondo.cc/posts/zn/p6.svg" class="img-fluid"></p>
+</blockquote>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>工作笔记</category>
+  <guid>https://blog.macondo.cc/posts/zn/zn.html</guid>
+  <pubDate>Sun, 15 Dec 2024 16:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>ISO 4942-2016 部分翻译</title>
+  <dc:creator>Lam </dc:creator>
+  <link>https://blog.macondo.cc/posts/iso49422016.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="钢铁钒含量的测定n-bpha分光光度法" class="level1">
+<h1>钢铁—钒含量的测定—N-BPHA分光光度法</h1>
+<section id="试剂与材料" class="level2">
+<h2 class="anchored" data-anchor-id="试剂与材料">试剂与材料</h2>
+<p>5.1 盐酸，密度大约为1.19 g/mL。</p>
+<p>5.2 盐酸，密度大约为1.19 g/mL，稀释比例为4 + 1。将400mL的盐酸（5.1）加入100mL水中。</p>
+<p>5.3 硝酸，密度大约为1.40 g/mL。</p>
+<p>5.4 高氯酸，密度大约为1.67 g/mL。 <strong>警告 —— 高氯酸蒸汽在氨气、一氧化氮或一般有机物存在时可能会引起爆炸。</strong></p>
+<p>5.5 磷酸，密度大约为1.71 g/mL。</p>
+<p>5.6 磷酸，密度大约为1.71 g/mL，稀释比例为1 + 1。将250mL的正磷酸（5.5）加入250mL水中。</p>
+<p>5.7 盐酸/硝酸混合液，比例为3 + 1。将300mL的盐酸（5.1）与100mL的硝酸（5.3）混合。 使用前立即准备此混合液。</p>
+<p>5.8 过氧化氢，300g/L的溶液。</p>
+<p>5.9 亚硝酸钠，3g/L的溶液。</p>
+<p>5.10 尿素，250g/L的溶液。</p>
+<p>5.11 三聚磷酸钠（<img src="https://latex.codecogs.com/png.latex?Na_5P_3O_%7B10%7D">），100g/L的溶液。</p>
+<p>5.12 高锰酸钾，3g/L的溶液。</p>
+<p>5.13 三氯甲烷（氯仿）。</p>
+<p>5.14 钽试剂（<img src="https://latex.codecogs.com/png.latex?BPHA">），2.5g/L的三氯甲烷溶液。 将0.25g钽试剂溶解在100mL三氯甲烷（5.13）中。 此溶液应存放在棕色瓶中。否则，应现配。</p>
+<p>5.15 铁，10g/L的溶液。 称量5.0g纯铁（不含钒或钒含量尽可能低且确切已知），精确到1mg。将铁转移到一个500mL的烧杯中，用表面皿盖住，然后加入100mL盐酸/硝酸混合液（5.7）。 当气泡停止后，轻轻加热以完成溶解。 加入100mL高氯酸（5.4），并提高温度直到出现白色的高氯酸烟雾，然后在烧杯中进行回流。继续熏蒸大约3分钟。 冷却后，加入100mL热水并摇动以溶解盐。加入几滴过氧化氢（5.8），逐渐加热至沸腾，并保持沸腾大约2分钟。冷却后转移到一个500mL的单标线容量瓶中，用水稀释至刻度并混合。</p>
+<p>5.16 钒标准溶液，1.0 g/L。将几克的偏钒酸铵（<img src="https://latex.codecogs.com/png.latex?NH_4VO_3">）在100°C至105°C的烘箱中干燥至少1h，并在干燥器中冷却至室温。超过110°C的干燥温度会导致偏钒酸铵分解。必须严格按照指定的温度进行干燥。 称量干燥后的产品2.296g，精确到1mg，转移到一个600mL的烧杯中，加入400mL热水并轻轻加热直到完全溶解。冷却后转移到一个1000mL的单标线容量瓶中，用水稀释至刻度并混合。 这个标准溶液中1mL含有1.0mg的钒。</p>
+<p>5.17 钒标准溶液，50 mg/L。将5.0mL的钒标准溶液（5.16）转移到一个100mL的单标线容量瓶中，用水稀释至刻度并混合。这个标准溶液中1mL含有50μg的钒。</p>
+</section>
+<section id="称样量" class="level2">
+<h2 class="anchored" data-anchor-id="称样量">称样量</h2>
+<p>V含量0.005%~0.10%：1.0g；</p>
+<p>V含量&gt;0.10%~0.20%：0.50g；</p>
+<p>V含量&gt;0.20%~0.50%：0.20g；</p>
+</section>
+<section id="空白试验" class="level2">
+<h2 class="anchored" data-anchor-id="空白试验">空白试验</h2>
+<p>在进行测定的同时进行空白试验，遵循相同的程序，并使用与测定相同的所有试剂量（见8.3.2和8.3.3），但将测试溶液替换为铁溶液（5.15）。</p>
+</section>
+<section id="试验步骤" class="level2">
+<h2 class="anchored" data-anchor-id="试验步骤">试验步骤</h2>
+<section id="测试溶液的制备" class="level3">
+<h3 class="anchored" data-anchor-id="测试溶液的制备">8.3.1 测试溶液的制备</h3>
+<p>将测试样品转移到一个250mL的烧杯中，用表盖盖住，然后加入20mL至30mL的盐酸/硝酸混合液（5.7）。当气泡停止后，轻轻加热以完成溶解。加入15mL至20mL的高氯酸（5.4），提高温度直到出现白色的高氯酸烟雾，在烧杯中进行回流，并继续熏蒸大约3分钟。</p>
+<p><strong>注意</strong>：在铸铁的情况下，用高氯酸熏蒸大约3分钟可能不足以分解碳化物。只有当加热持续到烧杯中不再有烟雾可见且发生结晶时，完全分解才会完成。冷却后，在继续按照下文<em>“加入过氧化氢（5.8）…”</em>所述操作之前，加入大约30mL的水和10mL的高氯酸（5.4）。</p>
+<p>冷却后，加入大约30mL的热水并摇动以溶解盐。逐滴加入过氧化氢（5.8）以还原铬，逐渐加热至沸腾，并继续沸腾1至2分钟以分解多余的过氧化氢。冷却后，通过中速滤纸过滤，并将滤液收集到一个100mL的单标线容量瓶中。用热水多次洗涤滤纸。用水稀释至刻度并混合。</p>
+</section>
+<section id="钒的氧化" class="level3">
+<h3 class="anchored" data-anchor-id="钒的氧化">8.3.2 钒的氧化</h3>
+<p>将25.0mL的测试溶液（8.3.1）转移到一个125mL的分液漏斗中。加入2.0mL磷酸（5.6）和5.0mL的水并旋转摇动。加入0.8mL高锰酸钾溶液（5.12），旋转摇动并静置4分钟。然后加入5.0mL的尿素溶液（5.10），接着在旋转摇动的同时逐滴加入1.0mL的亚硝酸钠溶液（5.9）。<strong>若在加入1.0mL的亚硝酸钠溶液（5.9）后，溶液仍然稍微呈现粉红色，继续进行8.3.3步骤，不再额外添加亚硝酸钠溶液</strong>。静置1分钟。</p>
+</section>
+<section id="显色和萃取" class="level3">
+<h3 class="anchored" data-anchor-id="显色和萃取">8.3.3 显色和萃取</h3>
+<p>加入25.0mL的盐酸（5.2）和10.0mL的钽试剂（5.14），摇动45秒。当分层后，通过安装在普通漏斗中的干燥滤纸或安装在分液漏斗柄中的脱脂棉过滤，将有机相分离出来，收集到一个干燥的50mL单标线容量瓶中。保留水相。向分液漏斗中剩余的水相加入10.0mL的三氯甲烷（5.13），摇动30秒。静置后，将有机相与主萃取液合并，用三氯甲烷（5.13）稀释至刻度并混合。为确保测试和校准溶液在相同的显色条件下，每个溶液都需逐一经过钒氧化（8.3.2）到萃取（8.3.3）的步骤。避免批量显色，除非另有说明，否则应立即执行每一步。</p>
+</section>
+<section id="光谱光度测量" class="level3">
+<h3 class="anchored" data-anchor-id="光谱光度测量">8.3.4 光谱光度测量</h3>
+<p>在1cm光程长度的比色皿中，使用分光光度计（6.1）对测试溶液在大约535nm波长下的吸光度进行测量，在此之前需将分光光度计调零，以三氯甲烷（5.13）作为参照。</p>
+</section>
+</section>
+<section id="校准曲线的建立" class="level2">
+<h2 class="anchored" data-anchor-id="校准曲线的建立">校准曲线的建立</h2>
+<section id="校准溶液的准备" class="level3">
+<h3 class="anchored" data-anchor-id="校准溶液的准备">8.4.1 校准溶液的准备</h3>
+<p>将25.0mL的铁溶液（5.15）分装到一系列125mL的分液漏斗中。根据下表所示，加入钒标准溶液（5.17）和水的体积，旋转摇动，并按照8.3.2和8.3.3中指定的步骤进行操作，但省略8.3.2中指定加入5mL水的步骤。</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>V标液（mL）</th>
+<th>水（mL）</th>
+<th>浓度（μg/mL）</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>5.0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>0.5</td>
+<td>4.5</td>
+<td>0.5</td>
+</tr>
+<tr class="odd">
+<td>1.0</td>
+<td>4.0</td>
+<td>1.0</td>
+</tr>
+<tr class="even">
+<td>2.0</td>
+<td>3.0</td>
+<td>2.0</td>
+</tr>
+<tr class="odd">
+<td>4.0</td>
+<td>1.0</td>
+<td>4.0</td>
+</tr>
+<tr class="even">
+<td>5.0</td>
+<td>0</td>
+<td>5.0</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="光谱光度测量-1" class="level3">
+<h3 class="anchored" data-anchor-id="光谱光度测量-1">8.4.2 光谱光度测量</h3>
+<p>在1cm光程长度的比色皿中，测量每个溶液在大约535nm波长下的吸光度，在此之前需将分光光度计（6.1）调零，以校准溶液中的零浓度溶液作为参照。建立校准曲线，通过绘制吸光度值与校准溶液中的钒浓度（μg/mL）的关系图。</p>
+</section>
+</section>
+<section id="结果计算" class="level2">
+<h2 class="anchored" data-anchor-id="结果计算">结果计算</h2>
+<p><img src="https://latex.codecogs.com/png.latex?%0A%5Cbegin%7Baligned%7D%0A&amp;m_%7BV%7D%20=(C_%7B%5Cmathrm%7BV%7D1%7D-C_%7B%5Cmathrm%7BV%7D0%7D)%5Ctimes%5Cfrac1%7B10%5E6%7D%5Ctimes%5Cfrac%7BV_0%7D%7BV_1%7D%5Ctimes%5Cfrac%7BV_%7B%5Cmathrm%7Bt%7D%7D%7Dm%5Ctimes100+%5Cfrac%7BC_%7B%5Cmathrm%7BFe%7D%7D%7Dm%20%5C%5C%0A&amp;m_%7B%5Cmathrm%7BV%7D%7D%20=(C_%7B%5Ctext%7BV%7D1%7D-C_%7B%5Ctext%7BV%7D0%7D)%5Ctimes%5Cfrac1%7B10%5E6%7D%5Ctimes%5Cfrac%7B100%7D%7B25%7D%5Ctimes%5Cfrac%7B50%7Dm%5Ctimes100+%5Cfrac%7BC_%7B%5Ctext%7B%20Fe%7D%7D%7Dm%20%5C%5C%0A&amp;m_%7B%5Cmathrm%7BV%7D%7D%20=(C_%7B%5Cmathrm%7BV%7D1%7D-C_%7B%5Cmathrm%7BV%7D0%7D)%5Ctimes%5Cfrac1%7B50m%7D+%5Cfrac%7BC_%7B%5Cmathrm%7BFe%7D%7D%7Dm%20%5C%5C%0A&amp;V_0%20-%20%20%E6%B5%8B%E8%AF%95%E6%BA%B6%E6%B6%B2%EF%BC%888.3.1%EF%BC%89%E7%9A%84%E4%BD%93%E7%A7%AF%EF%BC%8CmL%EF%BC%9B%5C%5C%0A&amp;V_1%20-%20%20%E5%8F%96%E6%A0%B7%E9%83%A8%E5%88%86%EF%BC%888.3.2%EF%BC%89%E7%9A%84%E4%BD%93%E7%A7%AF%EF%BC%8CmL%EF%BC%9B%5C%5C%0A&amp;V_%7Bt%7D%20-%20%E6%98%BE%E8%89%B2%E5%90%8E%E7%9A%84%E6%B5%8B%E8%AF%95%E6%BA%B6%E6%B6%B2%EF%BC%888.3.3%EF%BC%89%E7%9A%84%E4%BD%93%E7%A7%AF%EF%BC%8CmL%EF%BC%9B%5C%5C%0A&amp;C_%7B%5Cmathrm%7BV0%7D%7D%20-%20%E7%A9%BA%E7%99%BD%E6%B5%8B%E8%AF%95%E6%BA%B6%E6%B6%B2%E4%B8%AD%E9%92%92%E7%9A%84%E6%B5%93%E5%BA%A6%EF%BC%8C%CE%BCg/mL%EF%BC%9B%5C%5C%0A&amp;C_%7B%5Cmathrm%7BV1%7D%7D%20-%20%E6%B5%8B%E8%AF%95%E6%BA%B6%E6%B6%B2%E4%B8%AD%E9%92%92%E7%9A%84%E6%B5%93%E5%BA%A6%EF%BC%8C%CE%BCg/mL%EF%BC%9B%5C%5C%0A&amp;m%20-%20%E8%AF%95%E6%A0%B7%E8%B4%A8%E9%87%8F%EF%BC%8Cg%EF%BC%9B%5C%5C%0A&amp;C_%7B%5Cmathrm%7BFe%7D%7D%20-%20%E7%A9%BA%E7%99%BD%E6%B5%8B%E8%AF%95%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E9%93%81%E4%B8%AD%E9%92%92%E7%9A%84%E5%90%AB%E9%87%8F%EF%BC%8C%E4%BB%A5%E8%B4%A8%E9%87%8F%E5%88%86%E6%95%B0%E8%A1%A8%E7%A4%BA%EF%BC%8C%5C%25%E3%80%82%0A%5Cend%7Baligned%7D%0A"></p>
+</section>
+<section id="特殊情况" class="level2">
+<h2 class="anchored" data-anchor-id="特殊情况">特殊情况</h2>
+<section id="含钨试样的处理" class="level3">
+<h3 class="anchored" data-anchor-id="含钨试样的处理">含钨试样的处理</h3>
+<p>对于含有钨的测试样品，将测试样品（8.1）转移到一个250mL的烧杯中，用表面皿盖住，然后加入15mL至20mL的高氯酸（5.4）、5mL的磷酸（5.5）和3mL至5mL的硝酸（5.3）。微热以完成溶解，提高温度直到白色的高氯酸烟雾在烧杯中回流，并继续大约3min。省略加入2.0mL的磷酸（5.6）。</p>
+</section>
+<section id="含钛量高的试样处理" class="level3">
+<h3 class="anchored" data-anchor-id="含钛量高的试样处理">含钛量高的试样处理</h3>
+<p>对于每份分液中含有超过1mg钛的测试溶液，加入3.0mL的三聚磷酸钠溶液（5.11），以防止钛的干扰。</p>
+
+
+</section>
+</section>
+</section>
+
+ ]]></description>
+  <category>工作笔记</category>
+  <guid>https://blog.macondo.cc/posts/iso49422016.html</guid>
+  <pubDate>Wed, 23 Oct 2024 16:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
